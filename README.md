@@ -1,3 +1,15 @@
+# useForm Demo
+
+Adapted from: https://blog.bitsrc.io/react-hook-form-an-elegant-solution-to-forms-in-react-4db64505b0cd 
+
+illustrates these helpful feature of the `useForm` hook:
+
+1. Submit
+2. Validation
+3. Errors
+4. Watching changes
+
+-----------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
